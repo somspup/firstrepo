@@ -1,6 +1,11 @@
 learning git 
 learing github 
 it quite easy
+<<<<<<< HEAD
 it is a version control system 
 it is secondary branch 
 
+=======
+it is a version control system
+i am going to change  
+>>>>>>> secondary-branch
