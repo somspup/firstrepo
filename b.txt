@@ -2,3 +2,5 @@ learning git
 learing github 
 it quite easy
 it is a version control system 
+it is secondary branch 
+
