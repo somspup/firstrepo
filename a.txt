@@ -4,5 +4,11 @@ git
 github
 
 insert 
+<<<<<<< HEAD
 merging 
+=======
+remote merging 
+
+
+>>>>>>> abf7b0de1fa96cefd9a936115f966a3e472fe4c9
 
